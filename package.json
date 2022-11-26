@@ -1,0 +1,19 @@
+{
+  "name": "aak-api-autoprompt",
+  "version": "1.0.0",
+  "description": "aak api auto-prompt",
+  "main": "app.js",
+  "author": "authoralankay",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "2"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
